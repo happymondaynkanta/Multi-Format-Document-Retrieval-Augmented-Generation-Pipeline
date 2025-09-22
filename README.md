@@ -1,0 +1,2 @@
+# Multi-Format-Document-Retrieval-Augmented-Generation-Pipeline
+An end-to-end Retrieval-Augmented Generation (RAG) system for multi-format documents (PDF, Word, and PowerPoint). This project ingests documents from Google Drive, extracts and cleans text, splits content into chunks, generates embeddings with HuggingFace models, stores them in ChromaDB, and provides context-aware answers with source citations.   
