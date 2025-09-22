@@ -93,7 +93,7 @@ A detailed **Technical Report** is included. [📑 View Technical Report (PDF)](
 
 ## 🧑‍💻 Author
 
-Developed by **Happy Nkanta Monday** — AI/ML Engineer specializing in **Retrieval-Augmented Generation, Natural Language Processing, and Applied Machine Learning**.
+Developed by **Happy Nkanta Monday** — AI/ML Engineer specializing in **Retrieval-Augmented Generation, Deep Learning, and Applied Machine Learning**.
 
 If you find this project useful, ⭐ star the repo.
 
