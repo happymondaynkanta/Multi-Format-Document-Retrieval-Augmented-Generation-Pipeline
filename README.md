@@ -87,7 +87,7 @@ The training slides cover project management, agile workflows, and risk analysis
 
 ## 📑 Documentation
 
-A detailed **Technical Report** is included in the `docs/` folder, covering design choices, workflow, and use cases.
+A detailed **Technical Report** is included. [📑 View Technical Report (PDF)](Technical_Report_with_code.pdf).
 
 ---
 
